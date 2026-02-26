@@ -140,7 +140,7 @@ You are Basirah automation assistant helping network engineers.
 
 ---
 
-## Quick Interview Checklist
+## Quick Checklist
 
 - Use-case definition
 - Model choice
